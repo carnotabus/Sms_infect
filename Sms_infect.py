@@ -1905,7 +1905,7 @@ banner()
 
 
 numero = input("\n Introduce el número del enemigo: ")
-print(" CARGANDO....")
+print("\n CARGANDO....")
 print(f"\n Mandando SMS infectada con 0day a {numero}")
 
 time.sleep(10)
@@ -2006,7 +2006,7 @@ print(f"\n Generando persistencia al {numero}")
 
 time.sleep(10)
 
-siii = int(input(" \nPersistencia lista, preparado para eliminar todo?\n\n En tu pantalla se mostrara lo que se va borrando del objetivo\n Listo?  \n1)si \n responde:  "))
+siii = int(input(" \n Persistencia lista, preparado para eliminar todo?\n\n En tu pantalla se mostrara lo que se va borrando del objetivo\n Listo?  \n 1)si \n responde:  "))
 os.system("clear")
 if siii == 1:
     print(" \n comienzo de depuracion del telefono objetivo")
